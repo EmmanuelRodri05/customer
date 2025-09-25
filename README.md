@@ -4,10 +4,9 @@ Este repositorio contiene un **Customer Journey Map** profesional para el proces
 
 ## 📋 Contenido
 
-- **`customer-journey-template.html`** - Customer Journey Map principal en formato template profesional
+- **`index.html`** - Customer Journey Map principal en formato template profesional
 - **`styles.css`** - Estilos CSS separados para mejor mantenibilidad
-- **`customer.html`** - Versión anterior del Customer Journey Map
-- **`customer-journey-map.html`** - Versión alternativa
+- **`customer-journey-analysis.md`** - Análisis detallado del Customer Journey Map
 
 ## 🎯 Características
 
@@ -21,7 +20,9 @@ Este repositorio contiene un **Customer Journey Map** profesional para el proces
 
 ## 🚀 Vista Previa
 
-Abre `customer-journey-template.html` en tu navegador para ver el Customer Journey Map completo.
+Abre `index.html` en tu navegador para ver el Customer Journey Map completo.
+
+**🌐 Ver online:** [https://emmanuelrodri05.github.io/customer/](https://emmanuelrodri05.github.io/customer/)
 
 ## 📊 Metodología
 
@@ -32,10 +33,11 @@ Abre `customer-journey-template.html` en tu navegador para ver el Customer Journ
 
 ## 🛠️ Uso
 
-1. Abre `customer-journey-template.html` en cualquier navegador
-2. Los estilos están en `styles.css` (se cargan automáticamente)
-3. El diseño es responsive y se adapta a diferentes pantallas
-4. Optimizado para impresión y presentaciones
+1. **Online:** Ve a [https://emmanuelrodri05.github.io/customer/](https://emmanuelrodri05.github.io/customer/)
+2. **Local:** Abre `index.html` en cualquier navegador
+3. Los estilos están en `styles.css` (se cargan automáticamente)
+4. El diseño es responsive y se adapta a diferentes pantallas
+5. Optimizado para impresión y presentaciones
 
 ## 📈 Insights Clave
 
